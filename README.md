@@ -1,24 +1,8 @@
-# phonebook
+# VuePhonebook
 
-## Project setup
-```
-npm install
-```
+Phonebook app created with Vue as part of Nashville Software School's Vue workshop
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Deployed via Firebase:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://vuephonebook-3dec0.web.app/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
